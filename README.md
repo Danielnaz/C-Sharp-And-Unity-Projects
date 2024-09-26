@@ -1,2 +1,2 @@
-# C-Sharp-And-Unity-Projects
+# C# and Unity Projects
 This repository is for my C# projects.
